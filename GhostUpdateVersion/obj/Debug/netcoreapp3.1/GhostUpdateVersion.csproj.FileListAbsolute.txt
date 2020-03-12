@@ -1,0 +1,11 @@
+C:\Users\Faisal\source\repos\GhostUpdateVersion\GhostUpdateVersion\bin\Debug\netcoreapp3.1\GhostUpdateVersion.exe
+C:\Users\Faisal\source\repos\GhostUpdateVersion\GhostUpdateVersion\bin\Debug\netcoreapp3.1\GhostUpdateVersion.deps.json
+C:\Users\Faisal\source\repos\GhostUpdateVersion\GhostUpdateVersion\bin\Debug\netcoreapp3.1\GhostUpdateVersion.runtimeconfig.json
+C:\Users\Faisal\source\repos\GhostUpdateVersion\GhostUpdateVersion\bin\Debug\netcoreapp3.1\GhostUpdateVersion.runtimeconfig.dev.json
+C:\Users\Faisal\source\repos\GhostUpdateVersion\GhostUpdateVersion\bin\Debug\netcoreapp3.1\GhostUpdateVersion.dll
+C:\Users\Faisal\source\repos\GhostUpdateVersion\GhostUpdateVersion\bin\Debug\netcoreapp3.1\GhostUpdateVersion.pdb
+C:\Users\Faisal\source\repos\GhostUpdateVersion\GhostUpdateVersion\obj\Debug\netcoreapp3.1\GhostUpdateVersion.csprojAssemblyReference.cache
+C:\Users\Faisal\source\repos\GhostUpdateVersion\GhostUpdateVersion\obj\Debug\netcoreapp3.1\GhostUpdateVersion.AssemblyInfoInputs.cache
+C:\Users\Faisal\source\repos\GhostUpdateVersion\GhostUpdateVersion\obj\Debug\netcoreapp3.1\GhostUpdateVersion.AssemblyInfo.cs
+C:\Users\Faisal\source\repos\GhostUpdateVersion\GhostUpdateVersion\obj\Debug\netcoreapp3.1\GhostUpdateVersion.dll
+C:\Users\Faisal\source\repos\GhostUpdateVersion\GhostUpdateVersion\obj\Debug\netcoreapp3.1\GhostUpdateVersion.pdb
